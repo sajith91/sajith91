@@ -13,8 +13,10 @@
 </div>
 
 ### Hi there 👋
+ 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+ 
+<div >
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -25,9 +27,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;  
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sajith91&show_icons=true&theme=ADD_THEME_HERE" width="400">
-
-
+ 
+<div align=center>
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=sajith91&theme=dark&hide_current_streak=true&hide_longest_streak=true" width="400">
+<div> 
 <!--
 **sajith91/sajith91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
